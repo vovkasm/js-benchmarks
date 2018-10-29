@@ -1,0 +1,15 @@
+{
+  "name": "small-array-vs-object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "microtime": "^2.1.8"
+  }
+}
